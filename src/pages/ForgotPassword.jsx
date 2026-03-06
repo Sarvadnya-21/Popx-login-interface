@@ -98,9 +98,8 @@ export default function ForgotPassword() {
               </div>
             </div>
             <button
-              className="w-full bg-[var(--primary-color)] hover:bg-[var(--primary-color)]/90 text-white font-bold py-4 px-6 rounded-xl shadow-lg shadow-primary/20 transition-all flex items-center justify-center gap-2 text-base active:scale-[0.99]"
-              type="submit"
-            >
+              className="w-full bg-primary hover:bg-primary/90 text-white font-bold py-4 px-6 rounded-xl shadow-lg shadow-primary/20 transition-all flex items-center justify-center gap-2 text-base active:scale-[0.99]"
+              type="submit">
               <span>Update Password</span>
             </button>
           </form>
