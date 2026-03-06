@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # popx Login Interface
 
@@ -51,3 +52,6 @@ This project is for educational/demo purposes. No backend or sensitive data stor
 ---
 
 **Made with React, Tailwind CSS**
+=======
+# Popx-login-interface
+>>>>>>> 9ea52d352a9142052427c5d07549cf578aaca76e
